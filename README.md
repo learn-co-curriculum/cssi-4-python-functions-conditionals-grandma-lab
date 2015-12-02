@@ -16,3 +16,5 @@ WALL-E really likes EVA. Change your program so that it keeps running until you 
 
 ###TRIPLE BONUS
 WALL-E really doesn't want you to leave! When you shout BYE, he pretends not to hear you. Change your program so that you have to shout BYE three times in a row before the program will end. Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to WALL-E.
+
+<a href='https://learn.co/lessons/cssi-4-python-group-functions-conditionals-walle-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
